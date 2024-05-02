@@ -29,7 +29,7 @@ Supongan que ustedes son el equipo que Ciencia de Datos Ecuador ha designado par
 
 4. Proponga estrategias y recomendaciones en función a lo desarrollado en el punto 3 y a los insight obtenidos de los datos
 
-Workflow de trabajo:
+# Workflow de trabajo:
 
 1. Lectura de la base de datos
 
