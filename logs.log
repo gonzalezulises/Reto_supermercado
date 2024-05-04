@@ -1,0 +1,19 @@
+2024-05-04 04:38:57,995:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 04:38:57,995:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 04:38:57,995:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 04:38:57,995:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 04:52:22,083:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 04:52:22,084:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 04:52:22,084:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 04:52:22,084:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2024-05-04 04:52:25,416:WARNING:/Users/gonzalezulises/miniconda3/envs/supermercado/lib/python3.10/site-packages/dataprep/eda/utils.py:392: RuntimeWarning: ks_2samp: Exact calculation unsuccessful. Switching to method=asymp.
+  return cast(Tuple[float, float], ks_2samp_(data1, data2))
+
