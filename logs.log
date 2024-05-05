@@ -1946,3 +1946,18 @@ Precision is ill-defined and being set to 0.0 in labels with no predicted sample
 Precision is ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
 
 
+2024-05-05 16:27:23,786:WARNING:/Users/gonzalezulises/miniconda3/envs/py310/lib/python3.10/site-packages/dask/core.py:127: RuntimeWarning:
+
+invalid value encountered in divide
+
+
+2024-05-05 16:27:23,810:WARNING:/Users/gonzalezulises/miniconda3/envs/py310/lib/python3.10/site-packages/dataprep/eda/utils.py:392: RuntimeWarning:
+
+ks_2samp: Exact calculation unsuccessful. Switching to method=asymp.
+
+
+2024-05-05 16:29:40,568:WARNING:/Users/gonzalezulises/miniconda3/envs/py310/lib/python3.10/site-packages/dask/core.py:127: RuntimeWarning:
+
+invalid value encountered in divide
+
+
